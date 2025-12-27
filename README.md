@@ -9,3 +9,11 @@ Skills demonstrated:
 - CSS Flexbox layout
 - Typography and color systems
 - Git and GitHub workflow
+
+## Credits
+
+Images used in this project are sourced from:
+- Freepik (https://www.freepik.com)
+
+All images are used for educational and personal portfolio purposes.
+
